@@ -1,0 +1,5 @@
+{
+    "testing.addition.operand_one": 1,
+    "testing.addition.operand_two": 2,
+    "testing.addition.script": "/Users/avikram/cromwell/add.py"
+}
